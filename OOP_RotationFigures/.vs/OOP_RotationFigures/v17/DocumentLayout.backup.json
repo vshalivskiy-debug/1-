@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3198F-0941-490D-99F1-7E16C098EE75}|OOP_RotationFigures\\OOP_RotationFigures.vcxproj|D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\OOP_RotationFigures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86A3198F-0941-490D-99F1-7E16C098EE75}|OOP_RotationFigures\\OOP_RotationFigures.vcxproj|solutionrelative:OOP_RotationFigures\\OOP_RotationFigures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3198F-0941-490D-99F1-7E16C098EE75}|OOP_RotationFigures\\OOP_RotationFigures.vcxproj|D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\Cone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86A3198F-0941-490D-99F1-7E16C098EE75}|OOP_RotationFigures\\OOP_RotationFigures.vcxproj|solutionrelative:OOP_RotationFigures\\Cone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3198F-0941-490D-99F1-7E16C098EE75}|OOP_RotationFigures\\OOP_RotationFigures.vcxproj|D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\Cone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86A3198F-0941-490D-99F1-7E16C098EE75}|OOP_RotationFigures\\OOP_RotationFigures.vcxproj|solutionrelative:OOP_RotationFigures\\Cone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3198F-0941-490D-99F1-7E16C098EE75}|OOP_RotationFigures\\OOP_RotationFigures.vcxproj|D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\RotationFigure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86A3198F-0941-490D-99F1-7E16C098EE75}|OOP_RotationFigures\\OOP_RotationFigures.vcxproj|solutionrelative:OOP_RotationFigures\\RotationFigure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3198F-0941-490D-99F1-7E16C098EE75}|OOP_RotationFigures\\OOP_RotationFigures.vcxproj|D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\RotationFigure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86A3198F-0941-490D-99F1-7E16C098EE75}|OOP_RotationFigures\\OOP_RotationFigures.vcxproj|solutionrelative:OOP_RotationFigures\\RotationFigure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP_RotationFigures.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\OOP_RotationFigures.cpp",
+              "RelativeDocumentMoniker": "OOP_RotationFigures\\OOP_RotationFigures.cpp",
+              "ToolTip": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\OOP_RotationFigures.cpp",
+              "RelativeToolTip": "OOP_RotationFigures\\OOP_RotationFigures.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T22:14:44.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cone.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\Cone.cpp",
+              "RelativeDocumentMoniker": "OOP_RotationFigures\\Cone.cpp",
+              "ToolTip": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\Cone.cpp",
+              "RelativeToolTip": "OOP_RotationFigures\\Cone.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T22:16:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RotationFigure.cpp",
+              "DocumentMoniker": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\RotationFigure.cpp",
+              "RelativeDocumentMoniker": "OOP_RotationFigures\\RotationFigure.cpp",
+              "ToolTip": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\RotationFigure.cpp",
+              "RelativeToolTip": "OOP_RotationFigures\\RotationFigure.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T22:16:21.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cone.h",
+              "DocumentMoniker": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\Cone.h",
+              "RelativeDocumentMoniker": "OOP_RotationFigures\\Cone.h",
+              "ToolTip": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\Cone.h",
+              "RelativeToolTip": "OOP_RotationFigures\\Cone.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-26T22:15:44.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RotationFigure.h",
+              "DocumentMoniker": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\RotationFigure.h",
+              "RelativeDocumentMoniker": "OOP_RotationFigures\\RotationFigure.h",
+              "ToolTip": "D:\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\\u041E\u041E\u041F\\\u041D\u0430 27 12 25\\OOP_RotationFigures\\OOP_RotationFigures\\RotationFigure.h",
+              "RelativeToolTip": "OOP_RotationFigures\\RotationFigure.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-26T22:15:17.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
